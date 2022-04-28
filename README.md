@@ -2,6 +2,6 @@
 description: Testing
 ---
 
-# Test Git Sync 2
+# Test Git Sync
 
-second test
+Back to normal.
