@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Test Git Sync](README.md)
+* [Test Git Sync 2](README.md)

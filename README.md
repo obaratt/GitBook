@@ -2,10 +2,6 @@
 description: Testing
 ---
 
-# Test Git Sync
+# Test Git Sync 2
 
-Stuff goes here.
-
-
-
-After sync new stuff is here.
+second test
